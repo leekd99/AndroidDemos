@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">stateDemo</string>
+    <string name="edit_text_label">Type Here</string>
+    <string name="to_save">stringToSave</string>
+</resources>

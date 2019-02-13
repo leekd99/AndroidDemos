@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AdapterDemo</string>
+    <string name="add_label">ADD</string>
+    <string name="switch_label">SWITCH</string>
+
+    <string name="first_list">list_one</string>
+    <string name="second_list">list_two</string>
+
+</resources>

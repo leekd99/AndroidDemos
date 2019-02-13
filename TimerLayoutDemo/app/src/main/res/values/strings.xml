@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">TimerLayoutDemo</string>
+    <string name="start_label">START</string>
+    <string name="stop_label">STOP</string>
+    <string name="lap_label">LAP</string>
+    <string name="resume_label">RESUME</string>
+    <string name="reset_label">RESET</string>
+
+    <string name="lap_message">You pressed the lap button!!</string>
+    <string name="previous_state">previousState</string>
+
+</resources>
