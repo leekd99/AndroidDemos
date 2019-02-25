@@ -3,10 +3,10 @@ Demo applications for demonstrating concepts in android
 
 These projects are used to show certain concepts in Android.
 
-Adatpor Demo
-  -Layout files
-  -R class
-  -string resources
+Adatpor Demo\n
+  -Layout files\n
+  -R class\n
+  -string resources\n
 
 StateDemo
   -Different layouts (Orientation)
