@@ -3,18 +3,18 @@ Demo applications for demonstrating concepts in android
 
 These projects are used to show certain concepts in Android.
 
-Adatpor Demo
+*Adatpor Demo
     -Layout files
     -R class
     -string resources
 
-StateDemo
+*StateDemo
     -Different layouts (Orientation)
     -Andorid lifecycle
     -Saving state of app
     -SharedPref
 
-AdapterDemo
+*AdapterDemo
     -Adapters
     -View Objects
         -ListVIew
