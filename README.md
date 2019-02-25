@@ -4,8 +4,11 @@ Demo applications for demonstrating concepts in android
 These projects are used to show certain concepts in Android.
 
 * Adatpor Demo
+
     -Layout files
+    
     -R class
+    
     -string resources
 
 * StateDemo
